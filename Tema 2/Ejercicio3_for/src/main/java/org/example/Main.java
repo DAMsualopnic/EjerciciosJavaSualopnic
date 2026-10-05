@@ -1,6 +1,9 @@
 package org.example;
 
-
+/*
+3) Igual que o anterior, pero en lugar de ser cinco números, a aplicación debe
+preguntar antes cantos números se van a introducir.
+ */
 import java.util.Scanner;
 
 public class Main {
