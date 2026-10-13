@@ -1,5 +1,8 @@
 package org.example;
 
+/*
+4) Sumar os números pares entre dous dados polo usuario.
+ */
 
 import java.util.Scanner;
 
