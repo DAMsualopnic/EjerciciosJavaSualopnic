@@ -15,7 +15,7 @@ public class Main {
 
         while (n > 0){
             resto = n%2;
-            binario += resto;
+            binario = resto+binario;
             n = n/2;
         }
         System.out.println("El número en binario es: " + binario);
