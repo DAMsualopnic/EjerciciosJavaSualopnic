@@ -18,4 +18,8 @@ public class Persoa {
     public String getDni(){
         return this.dni;
     }
+
+    public String getNomeCompleto(){
+        return this.nomeCompleto;
+    }
 }

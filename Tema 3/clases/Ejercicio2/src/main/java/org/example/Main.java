@@ -8,6 +8,10 @@ public class Main {
         Persoa cliente = new Persoa("333322223J", "Pepe");
 
         System.out.println("O dni da 1º persoa é: "+ p.getDni());
-        System.out.println("O dni da 1º persoa é: "+ cliente.getDni());
+        System.out.println("O dni da 2º persoa é: "+ cliente.getDni());
+        System.out.println("O dni da 1º persoa é: "+ p.getNomeCompleto());
+        System.out.println("O dni da 2º persoa é: "+ cliente.getNomeCompleto());
+
+
     }
 }
